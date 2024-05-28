@@ -1,0 +1,9 @@
+.bg_main {
+    background-color: #111111 !important;
+    transition: background-color 0.5s ease-in;
+}
+
+.bg_transparently {
+    background-color: transparent;
+    transition: background-color 0.5s ease-in;
+}
